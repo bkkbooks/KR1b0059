@@ -1,0 +1,388 @@
+canonical_identifier: bkk:krp/KR1b0059/krp/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR1b0059_SBCK_000-1a01}
+  - {type: indent, offset: 0, content: 　　, id: KR1b0059_krp_000-bkkind1}
+  - {type: variant, offset: 0, length: 1, content: 尙, WYG: 欽定四庫全書經部二尚}
+  - {type: page-break, offset: 0, content: '', id: KR1b0059_WYG_000-1a, image: WYG0068/WYG0068-0385a.png}
+  - {type: variant, offset: 4, length: 4, content: 定本序尙, WYG: 書類附録提要臣等謹案尚}
+  - {type: 'kr:newline', offset: 7, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 7, content: '', id: KR1b0059_SBCK_000-1a02}
+  - {type: variant, offset: 10, length: 0, content: '', WYG: 傳三卷補遺一卷國朝孫之騄輯之騄字晴川錢塘人按漢書藝文志伏生所傳經二十九卷}
+  - {type: variant, offset: 15, length: 2, content: 見漢, WYG: 隋志作尚}
+  - {type: variant, offset: 18, length: 3, content: 藝文志, WYG: 大傳三卷}
+  - {type: variant, offset: 26, length: 8, content: 出自伏生至康成詮, WYG: 章句之外别撰大義劉子政校書得而上之其篇}
+  - {type: 'kr:newline', offset: 27, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 27, content: '', id: KR1b0059_SBCK_000-1a03}
+  - {type: variant, offset: 35, length: 12, content: 爲八十三篇隋書經籍志唐書, WYG: 與}
+  - {type: 'kr:newline', offset: 47, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 47, content: '', id: KR1b0059_SBCK_000-1a04}
+  - {type: page-break, offset: 47, content: '', id: KR1b0059_WYG_000-1b, image: WYG0068/WYG0068-0385b.png}
+  - {type: variant, offset: 50, length: 7, content: 崇文總目郡齋讀, WYG: 合舊唐}
+  - {type: variant, offset: 59, length: 3, content: 並著錄, WYG: 云伏勝注大傳}
+  - {type: variant, offset: 64, length: 0, content: '', WYG: 暢訓三卷新}
+  - {type: variant, offset: 65, length: 0, content: '', WYG: 書}
+  - {type: variant, offset: 66, length: 2, content: 别出, WYG: 則作伏勝注大傳三卷又}
+  - {type: 'kr:newline', offset: 67, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 67, content: '', id: KR1b0059_SBCK_000-1a05}
+  - {type: variant, offset: 72, length: 8, content: 疑卽略說之譌舊唐, WYG: 已闕二卷至宋史藝文}
+  - {type: variant, offset: 81, length: 1, content: 直, SBCK: 􅀡}
+  - {type: variant, offset: 81, length: 4, content: 直云尙書, WYG: ''}
+  - {type: 'kr:newline', offset: 87, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 87, content: '', id: KR1b0059_SBCK_000-1a06}
+  - {type: variant, offset: 87, length: 7, content: 三卷伏勝注繆甚, WYG: 遂不著録葢已散佚故}
+  - {type: variant, offset: 95, length: 1, content: 葉, WYG: 明}
+  - {type: variant, offset: 96, length: 1, content: 夢, WYG: 代}
+  - {type: variant, offset: 97, length: 1, content: 得, WYG: 以}
+  - {type: variant, offset: 98, length: 1, content: 晁, WYG: 來}
+  - {type: variant, offset: 99, length: 1, content: 公, WYG: 僅}
+  - {type: variant, offset: 100, length: 1, content: 武, WYG: 留}
+  - {type: variant, offset: 101, length: 1, content: 皆, WYG: 大}
+  - {type: variant, offset: 102, length: 1, content: 言, WYG: 傳}
+  - {type: variant, offset: 103, length: 1, content: 今, WYG: 殘}
+  - {type: variant, offset: 105, length: 2, content: 首尾, WYG: 脱畧漫漶殆}
+  - {type: 'kr:newline', offset: 107, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 107, content: '', id: KR1b0059_SBCK_000-1a07}
+  - {type: variant, offset: 108, length: 62, content: 倫直齋書錄解題言印板刓闕宋世已無完本迄明遂亡近人編輯有仁和孫晴川本德州盧雅雨本曲阜孔叢伯本孫盧本多殽舛孔氏善矣而分篇強復漢志, WYG: 可讀}
+  - {type: variant, offset: 109, length: 1, content: 直, SBCK: 􅈂}
+  - {type: 'kr:newline', offset: 127, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 127, content: '', id: KR1b0059_SBCK_000-1a08}
+  - {type: 'kr:newline', offset: 147, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 147, content: '', id: KR1b0059_SBCK_000-1a09}
+  - {type: 'kr:newline', offset: 167, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 167, content: '', id: KR1b0059_SBCK_000-1a10}
+  - {type: variant, offset: 171, length: 1, content: 舊, WYG: 騄}
+  - {type: variant, offset: 172, length: 1, content: 非, WYG: 詮}
+  - {type: variant, offset: 173, length: 1, content: 也, WYG: 次}
+  - {type: variant, offset: 175, length: 52, content: 他譌漏猶不免焉今覆加稽覈楬所據依稍參愚管而爲之案三卷首爲序錄一卷其所芟除别爲訂誤一卷末載漢書五行志綴以它, WYG: 文又博采諸}
+  - {type: 'kr:newline', offset: 187, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl11}
+  - {type: page-break, offset: 187, content: '', id: KR1b0059_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 187, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 187, content: '', id: KR1b0059_SBCK_000-1b01}
+  - {type: 'kr:newline', offset: 207, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 207, content: '', id: KR1b0059_SBCK_000-1b02}
+  - {type: 'kr:newline', offset: 227, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl14}
+  - {type: line-break, offset: 227, content: '', id: KR1b0059_SBCK_000-1b03}
+  - {type: variant, offset: 230, length: 7, content: 劉氏五行傳論三, WYG: 補其佚闕以成此本凡}
+  - {type: variant, offset: 238, length: 0, content: '', WYG: 中不注出處者皆殘本之原文其注某書某書者皆之騄所蒐輯也刻成之後續有所得不及逐條附入因又别為補遺一卷綴之卷末近揚州别有刻本相較頗有異同葢亦雜采補綴今與此本並著于録以存古書之梗概}
+  - {type: page-break, offset: 238, content: '', id: KR1b0059_WYG_000-2a, image: WYG0068/WYG0068-0386a.png}
+  - {type: variant, offset: 239, length: 5, content: 爲八卷序曰, WYG: 之皆非}
+  - {type: variant, offset: 246, length: 4, content: 以明經爲, WYG: 之舊矣其注乃鄭康成作今殘本尚題其名新舊唐書並作伏生注大傳葢史文之悞也乾隆四十三年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀欽定四庫全書尚書大傳卷一松惕縣教諭孫之騄輯易曰河出圖雒出書聖人則之書之所起逺矣至孔子得黄帝𤣥孫帝魁之書迄於秦穆公凡三千二百四十篇斷逺取近定可為世法者凡百二篇而為之序遭秦滅學燔書漢興旁求儒雅聞故}
+  - {type: page-break, offset: 246, content: '', id: KR1b0059_WYG_001-1a, image: WYG0068/WYG0068-0386c.png}
+  - {type: 'kr:newline', offset: 247, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 247, content: '', id: KR1b0059_SBCK_000-1b04}
+  - {type: variant, offset: 253, length: 4, content: 漢孝文時, WYG: 伏勝能傳其業詔太常使掌故晁錯往受焉而伏生}
+  - {type: variant, offset: 260, length: 2, content: 歲計, WYG: 嵗不能正言言不可曉使}
+  - {type: page-break, offset: 260, content: '', id: KR1b0059_WYG_001-1b, image: WYG0068/WYG0068-0386d.png}
+  - {type: variant, offset: 263, length: 56, content: 生在周末得見詩書古文且博識先秦舊書雅記多漢諸儒所未聞遭時燔災明哲退隱嬴祚旣顚守道不出初抱百篇藏之山中漢興亡失求得, WYG: 女誦}
+  - {type: 'kr:newline', offset: 267, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 267, content: '', id: KR1b0059_SBCK_000-1b05}
+  - {type: 'kr:newline', offset: 287, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl17}
+  - {type: line-break, offset: 287, content: '', id: KR1b0059_SBCK_000-1b06}
+  - {type: 'kr:newline', offset: 307, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl18}
+  - {type: line-break, offset: 307, content: '', id: KR1b0059_SBCK_000-1b07}
+  - {type: variant, offset: 321, length: 1, content: 九, WYG: 八}
+  - {type: variant, offset: 323, length: 8, content: 而九共帝告嘉禾揜, WYG: 口授晁錯曰堯典臯陶謨禹貢甘誓湯誓盤庚髙宗肜日西伯戡黎微子牧誓洪範金縢大}
+  - {type: 'kr:newline', offset: 327, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl19}
+  - {type: line-break, offset: 327, content: '', id: KR1b0059_SBCK_000-1b08}
+  - {type: variant, offset: 332, length: 1, content: 臩, WYG: 康誥酒誥梓材召誥洛誥多方多士立政無逸君奭顧}
+  - {type: variant, offset: 334, length: 13, content: 諸闕篇猶能言其作意述其佚句, WYG: 呂刑}
+  - {type: 'kr:newline', offset: 347, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl20}
+  - {type: line-break, offset: 347, content: '', id: KR1b0059_SBCK_000-1b09}
+  - {type: variant, offset: 348, length: 1, content: 帝, WYG: 侯之}
+  - {type: variant, offset: 350, length: 14, content: 掌故􅏯錯從受尙書而伏生亦自以, WYG: 費誓秦誓凡}
+  - {type: variant, offset: 366, length: 1, content: 九, WYG: 八}
+  - {type: 'kr:newline', offset: 367, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl21}
+  - {type: line-break, offset: 367, content: '', id: KR1b0059_SBCK_000-1b10}
+  - {type: variant, offset: 368, length: 16, content: 授張生歐陽生敎於齊魯之間迄武宣世, WYG: 自是傳其學者}
+  - {type: 'kr:newline', offset: 387, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl22}
+  - {type: page-break, offset: 387, content: '', id: KR1b0059_SBCK_000-2a}
+  - {type: 'kr:newline', offset: 387, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl23}
+  - {type: line-break, offset: 387, content: '', id: KR1b0059_SBCK_000-2a01}
+  - {type: variant, offset: 391, length: 13, content: 氏立學官是爲今尙書孔安國晩, WYG: 宣帝時復有河内女子}
+  - {type: variant, offset: 405, length: 9, content: 壁中古文多逸書十六, WYG: 泰誓一}
+  - {type: 'kr:newline', offset: 407, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl24}
+  - {type: line-break, offset: 407, content: '', id: KR1b0059_SBCK_000-2a02}
+  - {type: variant, offset: 415, length: 7, content: 顧絶無師說終漢, WYG: 獻}
+  - {type: variant, offset: 423, length: 3, content: 世獨傳, WYG: 與伏生女所誦合}
+  - {type: 'kr:newline', offset: 427, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl25}
+  - {type: line-break, offset: 427, content: '', id: KR1b0059_SBCK_000-2a03}
+  - {type: variant, offset: 430, length: 4, content: 而已何則, WYG: 漢志所謂經}
+  - {type: variant, offset: 437, length: 92, content: 篇今文具存文字異者不過數百其餘與古文大恉略均足相推校逸十六篇旣無今文可攷遂莫能盡通其義凡古文易書詩禮論語孝經所以傳悉由今文爲之先驅今文所無輒廢古春秋左氏傳賴張蒼先修其業故傳禮古經五十六, WYG: ''}
+  - {type: 'kr:newline', offset: 447, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl26}
+  - {type: line-break, offset: 447, content: '', id: KR1b0059_SBCK_000-2a04}
+  - {type: 'kr:newline', offset: 467, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl27}
+  - {type: line-break, offset: 467, content: '', id: KR1b0059_SBCK_000-2a05}
+  - {type: 'kr:newline', offset: 487, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl28}
+  - {type: line-break, offset: 487, content: '', id: KR1b0059_SBCK_000-2a06}
+  - {type: 'kr:newline', offset: 507, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl29}
+  - {type: line-break, offset: 507, content: '', id: KR1b0059_SBCK_000-2a07}
+  - {type: 'kr:newline', offset: 527, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl30}
+  - {type: line-break, offset: 527, content: '', id: KR1b0059_SBCK_000-2a08}
+  - {type: variant, offset: 530, length: 22, content: 傳士禮十七篇與后戴同而三十九篇逸禮竟廢書亦猶, WYG: ''}
+  - {type: 'kr:newline', offset: 547, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl31}
+  - {type: line-break, offset: 547, content: '', id: KR1b0059_SBCK_000-2a09}
+  - {type: variant, offset: 554, length: 2, content: 向微, WYG: 故言書者始濟南}
+  - {type: variant, offset: 558, length: 0, content: '', WYG: 伏生創大傳四十一篇以授同郡張生張生授千乗歐陽生歐陽生授同郡兒寛寛授歐陽生之子世世傳之至曾孫歐陽髙謂之尚書書是本名尚}
+  - {type: page-break, offset: 558, content: '', id: KR1b0059_WYG_001-2a, image: WYG0068/WYG0068-0387a.png}
+  - {type: variant, offset: 559, length: 2, content: 唐虞, WYG: 伏生所加也歐陽之學又有夏侯都尉受業於張生以授族子始昌始昌傳族子勝為大夏侯之學勝傳從子建别為小夏侯之學故有歐陽大小夏侯}
+  - {type: variant, offset: 562, length: 21, content: 代典謨誥命之經煙銷灰滅萬古長夜夫天爲斯文篤, WYG: 家並立迄漢東京相傳弗絶中興書目云伏}
+  - {type: 'kr:newline', offset: 567, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl32}
+  - {type: line-break, offset: 567, content: '', id: KR1b0059_SBCK_000-2a10}
+  - {type: variant, offset: 584, length: 50, content: 名德期頤之壽以昌大道豈偶然哉尙書今學精或不逮古文然亦各守師法賈逵以爲俗儒康成以爲嫉此蔽冐不悛迺謂當時, WYG: 為秦}
+  - {type: 'kr:newline', offset: 587, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl33}
+  - {type: page-break, offset: 587, content: '', id: KR1b0059_SBCK_000-2b}
+  - {type: 'kr:newline', offset: 587, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl34}
+  - {type: line-break, offset: 587, content: '', id: KR1b0059_SBCK_000-2b01}
+  - {type: 'kr:newline', offset: 607, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl35}
+  - {type: line-break, offset: 607, content: '', id: KR1b0059_SBCK_000-2b02}
+  - {type: 'kr:newline', offset: 627, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl36}
+  - {type: line-break, offset: 627, content: '', id: KR1b0059_SBCK_000-2b03}
+  - {type: variant, offset: 636, length: 4, content: 末師破碎, WYG: 至孝文時且百嵗張生歐陽生從其學而授之生終後數子各論所聞以己意彌縫其間别作}
+  - {type: variant, offset: 642, length: 11, content: 之過而伏生大傳條撰大義, WYG: ''}
+  - {type: 'kr:newline', offset: 647, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl37}
+  - {type: line-break, offset: 647, content: '', id: KR1b0059_SBCK_000-2b04}
+  - {type: variant, offset: 650, length: 1, content: 撰, SBCK: 􅁧}
+  - {type: variant, offset: 656, length: 10, content: 恉其文辭爾雅深厚最近, WYG: 指名之曰傳劉向校書得而上之凡四十一篇至鄭康成始銓為八十三篇及晉永嘉之亂歐陽}
+  - {type: page-break, offset: 656, content: '', id: KR1b0059_WYG_001-2b, image: WYG0068/WYG0068-0387b.png}
+  - {type: 'kr:newline', offset: 667, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl38}
+  - {type: line-break, offset: 667, content: '', id: KR1b0059_SBCK_000-2b05}
+  - {type: variant, offset: 668, length: 4, content: 戴記七十, WYG: 夏侯尚書並亡濟南伏生之傳唯劉向父}
+  - {type: variant, offset: 673, length: 2, content: 之徒, WYG: ''}
+  - {type: variant, offset: 676, length: 5, content: 說非漢諸儒, WYG: 著五行}
+  - {type: variant, offset: 682, length: 13, content: 訓之所能及也康成百世儒宗獨, WYG: 是其本法而又多乖戾隋志大傳三卷鄭元注顧彪撰音二卷舊唐書志伏生}
+  - {type: 'kr:newline', offset: 687, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl39}
+  - {type: line-break, offset: 687, content: '', id: KR1b0059_SBCK_000-2b06}
+  - {type: variant, offset: 698, length: 0, content: '', WYG: 三卷又暢訓三卷新唐書伏生暢訓一卷暢訓已不復傳而隋志所稱大傳者今遺缺漫滅前後差舛無卷帙倫次可理余披覽羣籍鈔綴殘文尋}
+  - {type: variant, offset: 699, length: 1, content: 釋, WYG: 端委釐成}
+  - {type: variant, offset: 701, length: 0, content: '', WYG: 卷仍舊名也至伏生之四十一篇與康成銓次之八十三篇之文篇目既亡孰從而詢焉虞書三五傳燧人以火紀陽也陽尊故托燧皇於天伏羲以人事紀故托羲皇於人盖天非人不因人非天不成也神農悉地力植穀故託農皇於地天地人之道偹而三五之運興矣燧人為燧皇以火紀官藝文類聚伏羲氏作八卦路史注伏羲氏没神農氏作神農氏没黄帝堯舜氏作羅璧識遺黄帝者光也厚也中和之色徳施四序與地同功故先黄以别之也風俗通顓者順也頊者信也慤也言其承文治之以質使天下遵化皆貴真慤也嚳者考也成也言其考明法度美譽醇然若酒之芬香也堯者髙也明也言其隆興煥炳最髙明也舜者准也循也言其准行道以循堯緒也禹者輔也輔續舜後庶績洪茂自堯以上王者子孫據國而紀功徳浸盛故造諡舜禹本以白衣砥美行顯名升為天子雖復制諡不如名著故因名焉湯者攘也言其攘除不軌改亳為商成就王道天下熾昌文武皆以其長能擅國之謂王能制殺生之威之謂王唐傳克明峻徳苟子書曰克明明徳以親九族九族既睦陳思工表引傳辯章百姓索隠引今文尚書歐陽説云九族乃異姓有親屬者父族四母族三妻族二鄭𤣥曰辯别也章明也神農始治農功正節氣審寒温以為蚤晚之期故立歴名一作日容成作歴黄帝命容成造葢天儀日者陽徳之母陽外發故日以晝明名曰曜靈月羣隂之宗光内影以宵曜名曰夜光主春者張昏中可以種稷一作穀主夏者火昏中可以種黍主秋者虚昏中可以種麥主冬者􅄧昏中可以収斂葢藏畋獵斷伐當告於天子而天子賦之民故天子南面而視四星之中知民之緩急急則不賦籍不舉力役故曰敬授民時此之謂也周}
+  - {type: page-break, offset: 701, content: '', id: KR1b0059_WYG_001-3a, image: WYG0068/WYG0068-0387c.png}
+  - {type: page-break, offset: 701, content: '', id: KR1b0059_WYG_001-3b, image: WYG0068/WYG0068-0387d.png}
+  - {type: page-break, offset: 701, content: '', id: KR1b0059_WYG_001-4a, image: WYG0068/WYG0068-0388a.png}
+  - {type: page-break, offset: 701, content: '', id: KR1b0059_WYG_001-4b, image: WYG0068/WYG0068-0388b.png}
+  - {type: page-break, offset: 701, content: '', id: KR1b0059_WYG_001-5a, image: WYG0068/WYG0068-0388c.png}
+  - {type: variant, offset: 702, length: 2, content: 每援, WYG: 疏及太平御覽鄭𤣥曰籍公家之常徭辯秩東作索隠}
+  - {type: variant, offset: 705, length: 2, content: 之及, WYG: 大傳辯秩南譌辯秩西成周禮疏辯秩據書傳而言書曰分命和仲度西曰栁榖周禮}
+  - {type: 'kr:newline', offset: 707, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl40}
+  - {type: line-break, offset: 707, content: '', id: KR1b0059_SBCK_000-2b07}
+  - {type: variant, offset: 708, length: 3, content: 古文尙, WYG: 疏云}
+  - {type: variant, offset: 712, length: 2, content: 洪範, WYG: 曰者是濟南伏生書鄭𤣥曰}
+  - {type: page-break, offset: 712, content: '', id: KR1b0059_WYG_001-5b, image: WYG0068/WYG0068-0388d.png}
+  - {type: variant, offset: 715, length: 22, content: 事康誥孟侯文王伐崇耆之歲周公克殷踐奄之年咸據, WYG: 色聚為栁日入時具五色便在伏物索隠引}
+  - {type: indent, offset: 724, content: 　, id: KR1b0059_krp_000-bkkind2}
+  - {type: 'kr:newline', offset: 726, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl41}
+  - {type: line-break, offset: 726, content: '', id: KR1b0059_SBCK_000-2b08}
+  - {type: variant, offset: 740, length: 27, content: 明事豈非閎識博通信舊聞者哉且夫伏生之學尤善於禮其言巡狩, WYG: 正月}
+  - {type: 'kr:newline', offset: 746, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl42}
+  - {type: line-break, offset: 746, content: '', id: KR1b0059_SBCK_000-2b09}
+  - {type: 'kr:newline', offset: 766, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl43}
+  - {type: line-break, offset: 766, content: '', id: KR1b0059_SBCK_000-2b10}
+  - {type: variant, offset: 768, length: 3, content: 覲郊尸, WYG: ''}
+  - {type: variant, offset: 773, length: 8, content: 廟祭族燕門塾學校, WYG: 於東郊所以為萬物先而尊事天也迎日之詞曰維某年某月上日明光於上下勤施於四方旁作穆穆維予一人一夲無一人二字某敬拜迎日於郊宋書志引尚書大傳書傳畧説云祀上帝於南郊即春迎日於東郊東方者何也物之動也物之動何以謂之春春出也物之出也故謂東方春也南方者何也任方也任方者物之方任何以謂之夏夏者假也吁荼萬物}
+  - {type: page-break, offset: 773, content: '', id: KR1b0059_WYG_001-6a, image: WYG0068/WYG0068-0389a.png}
+  - {type: variant, offset: 782, length: 4, content: 老擇射貢, WYG: 之外者也故曰南方夏也西方者何也鮮方也鮮訊也訊者始入之貌始入者何以謂之秋秋者愁也愁者物方愁而入也故曰西方者秋也北方者何伏方也伏方者萬物之方伏也伏方何以謂之冬冬者中也中也者物方藏於中也故曰北方冬也陽盛則吁荼萬物而養之外也隂盛則隂吸萬物而藏之内也故曰呼吸者隂陽之交接萬物之始終否不也文選注引大傳古之王者必有命民民能敬長憐孤取舍好讓舉事力者于其君得命然後得乗飾車駢馬衣文錦未有命者不得衣不乗車車衣者有罰藝文類聚玉藻疏唐傳云古者有命民有飾車駢馬衣錦未命為}
+  - {type: page-break, offset: 782, content: '', id: KR1b0059_WYG_001-6b, image: WYG0068/WYG0068-0389b.png}
+  - {type: 'kr:newline', offset: 786, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl44}
+  - {type: page-break, offset: 786, content: '', id: KR1b0059_SBCK_000-3a}
+  - {type: 'kr:newline', offset: 786, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl45}
+  - {type: line-break, offset: 786, content: '', id: KR1b0059_SBCK_000-3a01}
+  - {type: variant, offset: 787, length: 2, content: 考績, WYG: 不得朱軒車不得有飛鈴文選注鄭𤣥曰軒輿也士以朱飾之飛鈴如今窻車士乗飾車兩馬庻人單馬木車衣布帛選注公羊疏碩人詩曰衣錦尚蘏説文引大傳堯時麒麟在}
+  - {type: page-break, offset: 787, content: '', id: KR1b0059_WYG_001-7a, image: WYG0068/WYG0068-0389c.png}
+  - {type: variant, offset: 790, length: 2, content: 遂采, WYG: 藪選注詩疏引唐傳外無曠夫内無怨女詩疏孔子對子張曰舜父頑毋嚚無室家之端故謂之鰥尚書正義詩疏引唐傳虞傳舜販於頓丘一作須丘就時負夏陶於河濵漁雷澤之中堯致舜天下贈以昭華之玉藝文類聚贈以苕華之玉一本堯得舜推而尊之贈以昭華之玉鄭𤣥曰負夏衛}
+  - {type: page-break, offset: 790, content: '', id: KR1b0059_WYG_001-7b, image: WYG0068/WYG0068-0389d.png}
+  - {type: variant, offset: 793, length: 15, content: 房堂路寢之制后夫人入御太子迎問, WYG: 雷澤兖州澤今屬濟隂堯推尊舜屬}
+  - {type: 'kr:newline', offset: 806, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl46}
+  - {type: line-break, offset: 806, content: '', id: KR1b0059_SBCK_000-3a02}
+  - {type: variant, offset: 810, length: 42, content: 之法三正之統五服之色七始之素八伯之樂皆唐虞三代遺文往往六經所不備諸子百家所不詳漢始定, WYG: 致}
+  - {type: 'kr:newline', offset: 826, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl47}
+  - {type: line-break, offset: 826, content: '', id: KR1b0059_SBCK_000-3a03}
+  - {type: 'kr:newline', offset: 846, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl48}
+  - {type: line-break, offset: 846, content: '', id: KR1b0059_SBCK_000-3a04}
+  - {type: variant, offset: 854, length: 1, content: 庶, WYG: 於大麓之野路史引虞夏傳鄭𤣥曰山足曰麓麓者録也古者天子命大}
+  - {type: variant, offset: 856, length: 25, content: 艸剏獨一叔孫通略定制度雜以秦儀若迺正朔服色郊望宗廟, WYG: 命諸侯則為壇國之外堯聚諸侯命舜陟位居攝致天下}
+  - {type: 'kr:newline', offset: 866, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl49}
+  - {type: line-break, offset: 866, content: '', id: KR1b0059_SBCK_000-3a05}
+  - {type: variant, offset: 883, length: 19, content: 數世猶未章焉假令當高帝時伏生年未篤老尊, WYG: 使大録之舜讓於徳不怡索隠引今文正月上日受終於文祖作璿璣玉衡以齊七政璿璣者何也曰璿者還也璣者幾也㣲也}
+  - {type: page-break, offset: 883, content: '', id: KR1b0059_WYG_001-8a, image: WYG0068/WYG0068-0390a.png}
+  - {type: 'kr:newline', offset: 886, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl50}
+  - {type: line-break, offset: 886, content: '', id: KR1b0059_SBCK_000-3a06}
+  - {type: variant, offset: 903, length: 28, content: 高節安車禮徵與張蒼等考舊章立經制議禮樂則魯兩生息面諛違古, WYG: 變幾㣲而所動者大謂}
+  - {type: 'kr:newline', offset: 906, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl51}
+  - {type: line-break, offset: 906, content: '', id: KR1b0059_SBCK_000-3a07}
+  - {type: 'kr:newline', offset: 926, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl52}
+  - {type: line-break, offset: 926, content: '', id: KR1b0059_SBCK_000-3a08}
+  - {type: variant, offset: 932, length: 10, content: 誚綘灌諸臣冺年少紛更, WYG: 璿璣是故璿璣謂}
+  - {type: variant, offset: 943, length: 22, content: 讒規橅粗定然後繼以賈誼董仲舒河間獻王王吉劉向, WYG: 北極受謂舜也上日元日也文祖堯文徳}
+  - {type: 'kr:newline', offset: 946, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl53}
+  - {type: line-break, offset: 946, content: '', id: KR1b0059_SBCK_000-3a09}
+  - {type: 'kr:newline', offset: 966, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl54}
+  - {type: line-break, offset: 966, content: '', id: KR1b0059_SBCK_000-3a10}
+  - {type: variant, offset: 966, length: 50, content: 倫先後討論法象明備成康之治何必不復見西京今其書散佚十無四五猶可寶重宋朱子與勉齋黃氏纂儀禮經傳通解攈摭, WYG: 祖廟鄭𤣥曰轉運者為璣持正者為衡索隠鄭注}
+  - {type: 'kr:newline', offset: 986, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl55}
+  - {type: page-break, offset: 986, content: '', id: KR1b0059_SBCK_000-3b}
+  - {type: 'kr:newline', offset: 986, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl56}
+  - {type: line-break, offset: 986, content: '', id: KR1b0059_SBCK_000-3b01}
+  - {type: 'kr:newline', offset: 1006, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl57}
+  - {type: line-break, offset: 1006, content: '', id: KR1b0059_SBCK_000-3b02}
+  - {type: variant, offset: 1018, length: 3, content: 獨詳蓋, WYG: 云渾儀中筩為璇璣外規為玉衡也文祖五府之大名猶周之明堂也七政謂春秋冬夏天文地理人道所以為政也人道正而萬事順成又七政布位日月時之正五星時之紀日月}
+  - {type: page-break, offset: 1018, content: '', id: KR1b0059_WYG_001-8b, image: WYG0068/WYG0068-0390b.png}
+  - {type: variant, offset: 1022, length: 5, content: 禆禮學不虛, WYG: 薄食五星有錯聚七者得失在人君之政故謂之為政玉海引大傳類祭天名}
+  - {type: 'kr:newline', offset: 1026, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl58}
+  - {type: line-break, offset: 1026, content: '', id: KR1b0059_SBCK_000-3b03}
+  - {type: variant, offset: 1028, length: 5, content: 五行傳者自, WYG: 以祀類祭之奈何天位在南方就南郊祭之事也今文尚書}
+  - {type: variant, offset: 1035, length: 1, content: 始, WYG: 歐陽説月令疏引萬物非天不生非地不載非春不動非夏不長非秋不収非冬不藏故書曰禋於六宗此之謂也生一作覆鄭𤣥曰六宗星辰司中司命風伯雨師也星五緯也辰謂日月所㑹十二次也司中司命文}
+  - {type: variant, offset: 1037, length: 27, content: 至劉氏父子傳之皆善推禍福著天人之應漢儒治經莫不明象數陰, WYG: 第五第四星也風師箕也雨師畢也歐}
+  - {type: page-break, offset: 1037, content: '', id: KR1b0059_WYG_001-9a, image: WYG0068/WYG0068-0390c.png}
+  - {type: 'kr:newline', offset: 1046, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl59}
+  - {type: line-break, offset: 1046, content: '', id: KR1b0059_SBCK_000-3b04}
+  - {type: variant, offset: 1065, length: 33, content: 以窮極性命故易有孟京卦氣之候詩有翼奉五際之要春秋有公羊災異之條書有, WYG: 和伯}
+  - {type: 'kr:newline', offset: 1066, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl60}
+  - {type: line-break, offset: 1066, content: '', id: KR1b0059_SBCK_000-3b05}
+  - {type: 'kr:newline', offset: 1086, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl61}
+  - {type: line-break, offset: 1086, content: '', id: KR1b0059_SBCK_000-3b06}
+  - {type: variant, offset: 1100, length: 8, content: 劉氏許商李尋洪範, WYG: 建曰六宗上不謂一作及天下不謂地傍不謂四方在六者}
+  - {type: 'kr:newline', offset: 1106, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl62}
+  - {type: line-break, offset: 1106, content: '', id: KR1b0059_SBCK_000-3b07}
+  - {type: variant, offset: 1109, length: 12, content: 論班固本大傳㩜仲舒别向歆, WYG: 間助隂陽變化者也古者圭必有冒一作瑁言下之必有冐不敢專達也天子執冐瑁}
+  - {type: variant, offset: 1122, length: 9, content: 傅春秋告往知來王事, WYG: 朝諸侯見則覆}
+  - {type: 'kr:newline', offset: 1126, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl63}
+  - {type: line-break, offset: 1126, content: '', id: KR1b0059_SBCK_000-3b08}
+  - {type: variant, offset: 1132, length: 28, content: 表不可廢也是以錄漢書五行志附於後以備一家之學云東越陳壽祺, WYG: 故冒圭者天子所}
+  - {type: 'kr:newline', offset: 1146, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl64}
+  - {type: line-break, offset: 1146, content: '', id: KR1b0059_SBCK_000-3b09}
+  - {type: 'kr:newline', offset: 1160, content: '
+
+      ', id: KR1b0059_krp_000-bkkkrnewl65}
+  back: []
+hash: sha256:a3c6b57ddfdc94437a0d9a5cd2695d4671b70225b4a75234eedb56ba2e45d7c8

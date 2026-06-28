@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1b0059/WYG/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尚書大傳
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 22:50:24.738862'
+  source:
+    repository: kanripo
+    path: KR1b0059/KR1b0059_003.txt
+hash: sha256:5471c01c77754c4e389463e8bc5f2057f39198296bb5f29d2ebc3c6285ee9234
