@@ -482,7 +482,6 @@ markers:
   - {type: 'tls:seg', offset: 497, content: '', id: KR1b0059_CHANT_004-7a.16}
   - {type: punctuation, offset: 503, content: 、, id: KR1b0059_CHANT_004-bkkpn125}
   - {type: variant, offset: 504, length: 1, content: 絕, WYG: 絶}
-  - {type: substitution, offset: 504, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 506, content: 。, id: KR1b0059_CHANT_004-bkkpn126}
   - {type: 'tls:seg', offset: 506, content: '', id: KR1b0059_CHANT_004-7a.17}
   - {type: punctuation, offset: 506, content: 《, id: KR1b0059_CHANT_004-bkkpn127}
@@ -491,7 +490,6 @@ markers:
   - {type: 'tls:seg', offset: 508, content: '', id: KR1b0059_CHANT_004-7a.18}
   - {type: punctuation, offset: 508, content: 「, id: KR1b0059_CHANT_004-bkkpn130}
   - {type: variant, offset: 508, length: 1, content: 茲, WYG: 兹}
-  - {type: substitution, offset: 509, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: punctuation, offset: 515, content: ，, id: KR1b0059_CHANT_004-bkkpn131}
   - {type: 'tls:seg', offset: 515, content: '', id: KR1b0059_CHANT_004-7a.19}
   - {type: punctuation, offset: 522, content: 。, id: KR1b0059_CHANT_004-bkkpn132}
@@ -542,7 +540,6 @@ markers:
   - {type: variant, offset: 533, length: 5, content: 宗梁闇三年, SBCK: 郵王侍郞伯申曰執燭之執當爲熱熱古爇字說苑建本篇作炳燭炳乃焫之譌焫與爇同案曰自此以下七條諸書所引大傳未稱略說今以意定之宜入此篇子曰心之精神是謂聖孔子集語卷下又繹史八十六案曰孫之騄本入五行傳葢以爲思心曰䜭䜭作聖之訓也似近之子曰君子}
   - {type: page-break, offset: 533, content: '', id: KR1b0059_SBCK_004-11b}
   - {type: variant, offset: 533, length: 5, content: 宗梁闇三年, krp: 郵王侍郞伯申曰執燭之執當爲熱熱古爇字說苑建本篇作炳燭炳乃焫之譌焫與爇同案曰自此以下七條諸書所引大傳未稱略說今以意定之宜入此篇子曰心之精神是謂聖孔子集語卷下又繹史八十六案曰孫之騄本入五行傳葢以爲思心曰䜭䜭作聖之訓也似近之子曰君子}
-  - {type: substitution, offset: 535, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 536, content: ，, id: KR1b0059_CHANT_004-bkkpn143}
   - {type: 'tls:seg', offset: 536, content: '', id: KR1b0059_CHANT_004-8a.6}
   - {type: variant, offset: 539, length: 5, content: 言何為梁闇, SBCK: 可以不學見人不可以不飾不飾無貌無貎不敬不敬無禮無禮不立夫遠而光者飾}
@@ -552,7 +549,6 @@ markers:
   - {type: punctuation, offset: 540, content: 」, id: KR1b0059_CHANT_004-bkkpn145}
   - {type: 'tls:seg', offset: 540, content: '', id: KR1b0059_CHANT_004-8a.7}
   - {type: punctuation, offset: 540, content: 「, id: KR1b0059_CHANT_004-bkkpn146}
-  - {type: substitution, offset: 543, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 545, content: ？, id: KR1b0059_CHANT_004-bkkpn147}
   - {type: punctuation, offset: 545, content: 」, id: KR1b0059_CHANT_004-bkkpn148}
   - {type: 'tls:seg', offset: 545, content: '', id: KR1b0059_CHANT_004-8a.8}
@@ -574,7 +570,6 @@ markers:
   - {type: variant, offset: 557, length: 4, content: 之謂梁闇, krp: 大同}
   - {type: variant, offset: 559, length: 2, content: 梁闇, WYG: 造士困學紀聞尚書大傳曰愛人者兼其屋上之烏然則惡而知其善愛而知其惡者寡矣埤雅傳記火發於宻水洩於深萬卷菁華前集引大傳道是周公也克是太公也按大戴記賈}
   - {type: page-break, offset: 559, content: '', id: KR1b0059_WYG_004-4a, image: WYG0068/WYG0068-0421c.png}
-  - {type: substitution, offset: 560, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 561, content: 。, id: KR1b0059_CHANT_004-bkkpn155}
   - {type: punctuation, offset: 561, content: 」, id: KR1b0059_CHANT_004-bkkpn156}
   - {type: 'tls:seg', offset: 561, content: '', id: KR1b0059_CHANT_004-8a.12}
@@ -776,10 +771,8 @@ markers:
   - {type: 'tls:seg', offset: 869, content: '', id: KR1b0059_CHANT_004-11a.15}
   - {type: punctuation, offset: 869, content: 「, id: KR1b0059_CHANT_004-bkkpn230}
   - {type: punctuation, offset: 872, content: 、, id: KR1b0059_CHANT_004-bkkpn231}
-  - {type: substitution, offset: 873, original: 艸, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0670}}
   - {type: punctuation, offset: 875, content: ，, id: KR1b0059_CHANT_004-bkkpn232}
   - {type: 'tls:seg', offset: 875, content: '', id: KR1b0059_CHANT_004-11a.16}
-  - {type: substitution, offset: 876, original: 艸, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0670}}
   - {type: punctuation, offset: 880, content: ，, id: KR1b0059_CHANT_004-bkkpn233}
   - {type: 'tls:seg', offset: 880, content: '', id: KR1b0059_CHANT_004-11a.17}
   - {type: punctuation, offset: 882, content: ！, id: KR1b0059_CHANT_004-bkkpn234}
@@ -793,7 +786,6 @@ markers:
   - {type: 'tls:seg', offset: 895, content: '', id: KR1b0059_CHANT_004-11a.21}
   - {type: punctuation, offset: 898, content: ，, id: KR1b0059_CHANT_004-bkkpn239}
   - {type: 'tls:seg', offset: 898, content: '', id: KR1b0059_CHANT_004-11a.22}
-  - {type: substitution, offset: 899, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 901, content: ，, id: KR1b0059_CHANT_004-bkkpn240}
   - {type: 'tls:seg', offset: 901, content: '', id: KR1b0059_CHANT_004-11a.23}
   - {type: punctuation, offset: 904, content: ，, id: KR1b0059_CHANT_004-bkkpn241}
@@ -913,4 +905,4 @@ markers:
   - {type: xml-element, offset: 1150, content: '', id: KR1b0059_CHANT_004-bkkxmlele52}
   - {type: page-break, offset: 1150, content: '', id: KR1b0059_SBCK_004-19b}
   back: []
-hash: sha256:5eddfbfca5ac33395b025f8e859fb5ce44f53b40c0c0a41926c25a4fd6e8bf65
+hash: sha256:c95cf47e1f0fdb452347c026be09590a669e9247268f21e10cdcc39d523cb466

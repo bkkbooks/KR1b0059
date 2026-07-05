@@ -110,12 +110,8 @@ markers:
   - {type: variant, offset: 53, length: 12, content: 湖玄唐鉅野蔆鉅定蠃濟中詹, krp: 刑法部一又孔子集語卷下引至是以䌓也止案曰孔叢用此文}
   - {type: punctuation, offset: 56, content: ，, id: KR1b0059_CHANT_003-bkkpn18}
   - {type: 'tls:seg', offset: 56, content: '', id: KR1b0059_CHANT_003-1a.17}
-  - {type: substitution, offset: 56, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
-  - {type: substitution, offset: 58, original: 蔆, replacement: 菱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1055}}
   - {type: punctuation, offset: 59, content: ，, id: KR1b0059_CHANT_003-bkkpn19}
   - {type: 'tls:seg', offset: 59, content: '', id: KR1b0059_CHANT_003-1a.18}
-  - {type: substitution, offset: 59, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
-  - {type: substitution, offset: 61, original: 蠃, replacement: 螺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3099}}
   - {type: punctuation, offset: 62, content: ，, id: KR1b0059_CHANT_003-bkkpn20}
   - {type: 'tls:seg', offset: 62, content: '', id: KR1b0059_CHANT_003-1a.19}
   - {type: punctuation, offset: 66, content: ，, id: KR1b0059_CHANT_003-bkkpn21}
@@ -295,7 +291,6 @@ markers:
   - {type: 'tls:seg', offset: 375, content: '', id: KR1b0059_CHANT_003-6a.25}
   - {type: punctuation, offset: 378, content: ，, id: KR1b0059_CHANT_003-bkkpn91}
   - {type: 'tls:seg', offset: 378, content: '', id: KR1b0059_CHANT_003-6a.26}
-  - {type: substitution, offset: 379, original: 鷄, replacement: 雞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3564}}
   - {type: punctuation, offset: 383, content: ；, id: KR1b0059_CHANT_003-bkkpn92}
   - {type: 'tls:seg', offset: 383, content: '', id: KR1b0059_CHANT_003-6a.27}
   - {type: punctuation, offset: 390, content: ，, id: KR1b0059_CHANT_003-bkkpn93}
@@ -378,4 +373,4 @@ markers:
   - {type: punctuation, offset: 505, content: 。, id: KR1b0059_CHANT_003-bkkpn116}
   - {type: xml-element, offset: 505, content: '', id: KR1b0059_CHANT_003-bkkxmlele34}
   back: []
-hash: sha256:a15c3ef27fbfd2923c93477dade37149d0ab43d16e228807135880d3d5d90868
+hash: sha256:11569e6092ce05bd6b93ae939e257300c847a4033f5eef38b16e43e244a4b7d7
