@@ -86,6 +86,7 @@ markers:
   - {type: variant, offset: 23, length: 1, content: 穜, krp: 種}
   - {type: variant, offset: 25, length: 1, content: 尗, SBCK: ''}
   - {type: variant, offset: 25, length: 1, content: 尗, krp: ''}
+  - {type: substitution, offset: 25, original: 尗, replacement: 叔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19889}}
   - {type: punctuation, offset: 26, content: 。, id: KR1b0059_CHANT_001-bkkpn10}
   - {type: 'tls:seg', offset: 26, content: '', id: KR1b0059_CHANT_001-1a.9}
   - {type: variant, offset: 29, length: 1, content: 虛, SBCK: 虚}
@@ -195,6 +196,7 @@ markers:
   - {type: punctuation, offset: 180, content: ，, id: KR1b0059_CHANT_001-bkkpn52}
   - {type: 'tls:seg', offset: 180, content: '', id: KR1b0059_CHANT_001-2a.20}
   - {type: punctuation, offset: 182, content: 、, id: KR1b0059_CHANT_001-bkkpn53}
+  - {type: substitution, offset: 185, original: 皃, replacement: 貌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19950}}
   - {type: punctuation, offset: 186, content: 。, id: KR1b0059_CHANT_001-bkkpn54}
   - {type: 'tls:seg', offset: 186, content: '', id: KR1b0059_CHANT_001-2a.21}
   - {type: punctuation, offset: 189, content: ，, id: KR1b0059_CHANT_001-bkkpn55}
@@ -268,6 +270,7 @@ markers:
   - {type: variant, offset: 296, length: 0, content: '', krp: 御覽二十六時序部十一又藝文類聚三記纂淵海卷三節引又事類賦五中春辯秩東作中夏辯秩南譌中秋辯秩西成中冬辯在朔易周禮馮相氏注賈公彥疏云據書傳而言便秩東作史記五帝紀集解引尙書傳辯秩東作史記五帝紀索隱引尙書傳便在伏物史記五帝紀索隱引尙書傳分命和仲度西曰桺穀周禮縫人注賈疏云是濟南伏生書傳文}
   - {type: punctuation, offset: 300, content: ，, id: KR1b0059_CHANT_001-bkkpn83}
   - {type: 'tls:seg', offset: 300, content: '', id: KR1b0059_CHANT_001-3a.3}
+  - {type: substitution, offset: 300, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 304, content: 。, id: KR1b0059_CHANT_001-bkkpn84}
   - {type: 'tls:seg', offset: 304, content: '', id: KR1b0059_CHANT_001-3a.4}
   - {type: punctuation, offset: 304, content: 《, id: KR1b0059_CHANT_001-bkkpn85}
@@ -296,6 +299,7 @@ markers:
   - {type: 'tls:seg', offset: 340, content: '', id: KR1b0059_CHANT_001-4a.2}
   - {type: variant, offset: 340, length: 0, content: '', SBCK: 御覽二十四時序部九}
   - {type: variant, offset: 340, length: 0, content: '', krp: 御覽二十四時序部九}
+  - {type: substitution, offset: 340, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 344, content: ，, id: KR1b0059_CHANT_001-bkkpn94}
   - {type: 'tls:seg', offset: 344, content: '', id: KR1b0059_CHANT_001-4a.3}
   - {type: punctuation, offset: 346, content: 。, id: KR1b0059_CHANT_001-bkkpn95}
@@ -769,6 +773,7 @@ markers:
   - {type: 'tls:seg', offset: 1159, content: '', id: KR1b0059_CHANT_001-11a.9}
   - {type: variant, offset: 1167, length: 1, content: 閒, SBCK: 間}
   - {type: variant, offset: 1167, length: 1, content: 閒, krp: 間}
+  - {type: substitution, offset: 1167, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 1168, content: ，, id: KR1b0059_CHANT_001-bkkpn277}
   - {type: 'tls:seg', offset: 1168, content: '', id: KR1b0059_CHANT_001-11a.10}
   - {type: punctuation, offset: 1172, content: 。, id: KR1b0059_CHANT_001-bkkpn278}
@@ -1015,6 +1020,7 @@ markers:
   - {type: 'tls:seg', offset: 1540, content: '', id: KR1b0059_CHANT_001-15a.27}
   - {type: punctuation, offset: 1547, content: ，, id: KR1b0059_CHANT_001-bkkpn360}
   - {type: 'tls:seg', offset: 1547, content: '', id: KR1b0059_CHANT_001-15a.28}
+  - {type: substitution, offset: 1547, original: 孼, replacement: 孽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17814}}
   - {type: punctuation, offset: 1552, content: ，, id: KR1b0059_CHANT_001-bkkpn361}
   - {type: 'tls:seg', offset: 1552, content: '', id: KR1b0059_CHANT_001-15a.29}
   - {type: punctuation, offset: 1557, content: ，, id: KR1b0059_CHANT_001-bkkpn362}
@@ -1093,6 +1099,7 @@ markers:
   - {type: variant, offset: 1679, length: 1, content: 蒙, SBCK: 􅀩}
   - {type: variant, offset: 1680, length: 1, content: 皁, SBCK: 皂}
   - {type: variant, offset: 1680, length: 1, content: 皁, krp: 皂}
+  - {type: substitution, offset: 1680, original: 皁, replacement: 皂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16529}}
   - {type: punctuation, offset: 1682, content: ，, id: KR1b0059_CHANT_001-bkkpn390}
   - {type: 'tls:seg', offset: 1682, content: '', id: KR1b0059_CHANT_001-16a.11}
   - {type: punctuation, offset: 1688, content: ，, id: KR1b0059_CHANT_001-bkkpn391}
@@ -1293,12 +1300,14 @@ markers:
   - {type: variant, offset: 1874, length: 8, content: 蠻夷滑夏寇賊奸宄, WYG: 公與宗伯司馬同職者}
   - {type: punctuation, offset: 1878, content: ，, id: KR1b0059_CHANT_001-bkkpn431}
   - {type: 'tls:seg', offset: 1878, content: '', id: KR1b0059_CHANT_001-18a.11}
+  - {type: substitution, offset: 1880, original: 奸, replacement: 姦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16421}}
   - {type: punctuation, offset: 1882, content: ，, id: KR1b0059_CHANT_001-bkkpn432}
   - {type: 'tls:seg', offset: 1882, content: '', id: KR1b0059_CHANT_001-18a.12}
   - {type: variant, offset: 1883, length: 1, content: 責, WYG: 謂}
   - {type: punctuation, offset: 1887, content: 。, id: KR1b0059_CHANT_001-bkkpn433}
   - {type: 'tls:seg', offset: 1887, content: '', id: KR1b0059_CHANT_001-18a.13}
   - {type: variant, offset: 1887, length: 8, content: 溝瀆雝遏水為民害, WYG: 公與司寇司空同職者}
+  - {type: substitution, offset: 1889, original: 雝, replacement: 雍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18593}}
   - {type: punctuation, offset: 1891, content: ，, id: KR1b0059_CHANT_001-bkkpn434}
   - {type: 'tls:seg', offset: 1891, content: '', id: KR1b0059_CHANT_001-18a.14}
   - {type: punctuation, offset: 1895, content: ，, id: KR1b0059_CHANT_001-bkkpn435}
@@ -1344,6 +1353,7 @@ markers:
   - {type: variant, offset: 1911, length: 0, content: '', krp: 予欲聞五聲六律八音采政忽禺鐵滎播旣都被明都予辛壬娶塗山癸甲生啓有火自上復于下至于王屋流爲烏其色赤其聲魄上刑挾輕下刑挾重天齊乎人假我一日以上雖系今文尙書然不宜與傳相亂其采女則有逸罰句本爾雅注恐是引般庚或粊誓之文而小有誤今竟依邢氏斷爲今文采粊誓曰􅖏乃擭敜乃阱引見周禮注下句亦引見說文攴部眞古文也今竟依賈疏斷爲今文皆不足據其篇次之亂者如古者處師一條雜記正義引作洛誥傳五嶽視三公一條王制正義引作夏傳此本竝入咎繇謨天子三公一條据考工記序工正義引鄭夏傳注云云又古者天子三公一條通解王制之戊引注云此夏時之官是兩文竝在夏傳中而此本一入}
   - {type: variant, offset: 1912, length: 5, content: 南撫交阯堯, SBCK: 典傳一入太誓傳周以至動一條檀弓正義公羊傳隱元年疏竝云略說文而此本入甘誓傳古之帝王必有大學小學一條王制正義引作周傳天子諸侯必有公桑􅁞室一條毛詩瞻卬正義引作夏傳祭之爲言察也一條御覽五百二十四引作周傳此本皆誤入略說又說命傳似當爲毋逸傳毋佚其在高宗乃或諒陰三年不言武成傳似當爲牧誓傳今文牧誓載史記微子之命似當爲微子麥秀之歌當在行遯}
   - {type: variant, offset: 1912, length: 5, content: 南撫交阯堯, krp: 典傳一入太誓傳周以至動一條檀弓正義公羊傳隱元年疏竝云略說文而此本入甘誓傳古之帝王必有大學小學一條王制正義引作周傳天子諸侯必有公桑𧖟室一條毛詩瞻卬正義引作夏傳祭之爲言察也一條御覽五百二十四引作周傳此本皆誤入略說又說命傳似當爲毋逸傳毋佚其在高宗乃或諒陰三年不言武成傳似當爲牧誓傳今文牧誓載史記微子之命似當爲微子麥秀之歌當在行遯}
+  - {type: substitution, offset: 1915, original: 阯, replacement: 址, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16460}}
   - {type: punctuation, offset: 1916, content: 。, id: KR1b0059_CHANT_001-bkkpn439}
   - {type: xml-element, offset: 1916, content: '', id: KR1b0059_CHANT_001-bkkxmlele68}
   - {type: xml-element, offset: 1916, content: '', id: KR1b0059_CHANT_001-bkkxmlele69}
@@ -1364,4 +1374,4 @@ markers:
   - {type: xml-element, offset: 1928, content: '', id: KR1b0059_CHANT_001-bkkxmlele72}
   - {type: page-break, offset: 1928, content: '', id: KR1b0059_SBCK_001-52a}
   back: []
-hash: sha256:d440fc965b5960bb66e7ed78b8845a066926c9a581a96bbc936817e3b737feb5
+hash: sha256:4e519a5df30f80ff79cd2cc9ad62120058453d762aae2b8325e1ba080379598d
